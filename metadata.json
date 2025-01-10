@@ -1,0 +1,39 @@
+{
+  "id": "IBCB2B2F0",
+  "title": {
+    "BO": "ཤེར་ཕྱིན་ཡི་གེ་གཅིག་མ།"
+  },
+  "author": {
+    "BO": "སངས་རྒྱས་བཅོམ་ལྡན་འདས།"
+  },
+  "imported": "2025-01-10T19:12:55.150746",
+  "source": "https://library.bdrc.io/show/bdr:MW22084_0023",
+  "toolkit_version": "0.0.1",
+  "parser": "GoogleDocTranslationParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "title_short": {
+      "BO": "ཤེར་ཕྱིན་ཡི་གེ་གཅིག་མ།"
+    },
+    "title_long_clean": {
+      "BO": "དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་ཡུམ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་ཡི་གེ་གཅིག་མ་ཞེས་བྱ་བ།"
+    }
+  },
+  "bases": [
+    {
+      "4BEE": {
+        "source_metadata": {
+          "total_segments": 11
+        },
+        "base_file": "4BEE.txt"
+      }
+    }
+  ],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
